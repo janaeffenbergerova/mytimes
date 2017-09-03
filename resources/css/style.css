@@ -13,26 +13,27 @@
   position: fixed;
   z-index: 2;
   background-color: white;
-
+  top: 0;
+  left: 0;
 }
 
 .logo-text {
   color: MediumAquamarine;
-  margin-left: 10px;
+  margin-left: 1%;
   display: flex;
   align-items: center;
 
 }
 .logo {
   display: flex;
-  padding-left: 20px;
+  margin-left: 2%;
   width: 70%;
   flex-shrink: 3;
 }
 
 nav {
   display: inline-block;
-  padding-right: 20px;
+  margin-right: 2%;
   flex-shrink: 1;
 }
 
