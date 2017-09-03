@@ -54,10 +54,10 @@ a:link {
   justify-content: space-between;
   align-items: flex-start;
   position: relative;
-  padding-top: 10%;
-  padding-left: 4%;
-  padding-right: 4%;
-  padding-bottom: 5%;
+  padding-top: 9%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 4%;
   z-index: 1;
 }
 
@@ -175,7 +175,6 @@ ul {
   min-height: 300px;
   flex-direction: column;
   z-index: 1;
-  flex-shrink: 5;
 }
 
 .mytimes {
